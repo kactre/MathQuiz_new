@@ -22,15 +22,13 @@ STRUKTURA
 - QuestionGenerator – generowanie pytań
 
 ZRZUTY EKRANU
-## Zrzuty ekranu
-
 ### Ekran startowy
-![Ekran startowy](screenshots/start.png)
+![Ekran startowy](Screenshots/start.png)
 
 ### Ekran quizu
-![Ekran quizu](screenshots/quiz.png)
+![Ekran quizu](Screenshots/quiz.png)
 
-![Ekran quizu](screenshots/quiz2.png)
+![Ekran quizu](Screenshots/quiz2.png)
 
 ### Ekran wyniku
-![Ekran wyniku](screenshots/result.png)
+![Ekran wyniku](Screenshots/result.png)
