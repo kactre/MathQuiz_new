@@ -31,4 +31,4 @@ ZRZUTY EKRANU
 ![Ekran quizu](Screenshots/quiz2.png)
 
 ### Ekran wyniku
-![Ekran wyniku](Screenshots/result.png)
+![Ekran wyniku](Screenshots/rezultat.png)
