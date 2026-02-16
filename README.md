@@ -21,3 +21,8 @@ STRUKTURA
 - Question – model pytania
 - QuestionGenerator – generowanie pytań
 
+ZRZUTY EKRANU
+![Start](screenshots/start.png)
+![Quiz](screenshots/quiz.png)
+![Quiz](screenshots/quiz2.png)
+![Wynik](screenshots/result.png)
