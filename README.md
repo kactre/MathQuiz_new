@@ -23,12 +23,14 @@ STRUKTURA
 
 ZRZUTY EKRANU
 ### Ekran startowy
-![Ekran startowy](Screenshots/start.png)
+![Ekran startowy](Screenshots/start.png.png)
 
 ### Ekran quizu
-![Ekran quizu](Screenshots/quiz.png)
+![Ekran quizu](Screenshots/quiz.png.png)
 
-![Ekran quizu](Screenshots/quiz2.png)
+### Ekran quizu 2
+![Ekran quizu 2](Screenshots/quiz2.png.png)
 
 ### Ekran wyniku
-![Ekran wyniku](Screenshots/rezultat.png)
+![Ekran wyniku](Screenshots/rezultat.png.png)
+
